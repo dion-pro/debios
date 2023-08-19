@@ -1,5 +1,3 @@
-![DebiOS Logo](http://downloadings.sweb.cz/debioaslogo.png)
-
 **DebiOS** - Operating system in batch!
 
 
